@@ -2,7 +2,7 @@
 
 A Streamlit app that renders a UTC-branded Plotly choropleth by **state of residence** for a selected academic term. Built for portfolio + lightweight internal use.
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](images/screenshot.png)
 
 ## Features
 - Single-term map (e.g., Spring 2025) with UTC Gold→Blue colors
